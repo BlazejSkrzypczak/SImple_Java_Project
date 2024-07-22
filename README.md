@@ -1,1 +1,1 @@
-Simple project used to train priting unit tests using mockito.
+Simple project used to train writing unit tests using mockito.
